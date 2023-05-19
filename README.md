@@ -14,7 +14,7 @@ You can customize the game by changing the values in the game values section of 
 You can also customise the fonts, sounds, and images used in the game by replacing the files in the fonts, sounds, and images folders.
 
 ## **Acknowledgements**
-This project was created using Pygame, a Python library for game development. The dragon and coin images used in this game were created by Freepik from www.flaticon.com. The background music and sound effects were downloaded from www.freesound.org.
+This project was created using Pygame, a Python library for game development. The dragon and coin images used in this game were created by Freepik from www.flaticon.com. The background music and sound effects were downloaded from www.leshylabs.com.
 
 ## **Contributing**
 If you would like to contribute to the programs, you can do so by:
