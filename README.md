@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## **Installing**
 Clone this repository to your local machine using the following command:
-**git clone https://github.com/yourUsername/Feed-the-Dragon.git**
+**git clone https://github.com/yourUsername/FeedTheDragon.git**
 
 ## **Running the Game**
 Navigate to the project directory and run the following command in your terminal:
