@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## **Running the Game**
 Navigate to the project directory and run the following command in your terminal:
-python3 catch_the_clown.py
+python3 Feed_the_dragon.py
 
 ## **How to Play**
 Use the up and down arrow keys to move the dragon up and down. The goal of the game is to catch as many coins as possible without missing any. If you miss a coin, you'll lose a life. The game is over when you run out of lives.
